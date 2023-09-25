@@ -9,7 +9,10 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #4e5259;
+    /* background: #4e5259; */
+    background: url(WhatsApp\ Image\ 2023-07-15\ at\ 21.57.48\ \(1\).jpeg) no-repeat;
+    background-position: center top;
+    background-size: cover;
 }
 
 .wrapper{
